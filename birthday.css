@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/watercolor-birthday-background-with-empty-space_52683-42227.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+}
+
+div#gif{
+    /* width: 292px; */
+    /* background-color: white; */
+    /* position: absolute; */
+    margin-top: 50px;
+}
+
+p{
+    float: right;
+    /* position:absolute; */
+    /* text-align: center; */
+    /* text-align: right; */
+}
+
+img{
+    margin: auto;
+    border: solid white 10px;
+    width: 40%;
+    float: left;
+}
