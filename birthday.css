@@ -21,10 +21,11 @@ div#gif{
 
 p{
     float: right;
+    font-size: x-large;
     /* text-align: center; */
     margin: 205px auto;
     padding: 70px auto auto auto;
-    border: solid black 5px;
+    border: solid black 3px;
     background-color: white;
     /* position:absolute; */
     /* text-align: center; */
