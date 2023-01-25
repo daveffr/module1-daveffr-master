@@ -21,6 +21,11 @@ div#gif{
 
 p{
     float: right;
+    /* text-align: center; */
+    margin: 205px auto;
+    padding: 70px auto auto auto;
+    border: solid black 5px;
+    background-color: white;
     /* position:absolute; */
     /* text-align: center; */
     /* text-align: right; */
@@ -29,6 +34,6 @@ p{
 img{
     margin: auto;
     border: solid white 10px;
-    width: 40%;
+    width: 30%;
     float: left;
 }
